@@ -1,9 +1,9 @@
 # <p align="center">Hi there, I'm Filipe! <img width="30em" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></p>
 
-<a href="https://github.com/filipefernandesdev">
+<a href="https://github.com/filipefernandesdev" align="center">
   <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipefernandesdev&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefernandesdev&theme=github_dark&hide=hack&langs_count=8&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefernandesdev&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefernandesdev&theme=github_dark&hide=hack&langs_count=8&layout=compact"/>
   </div>
 </a>
 
@@ -31,7 +31,5 @@
 <!--   GitHub -->
   <a href="https://github.com/filipefernandesdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-
-
 
 <!-- ![Snake animation](https://github.com/filipefernandesdev/filipefernandesdev/blob/output/github-contribution-grid-snake.svg) -->

@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I'm Filipe! <img width="30em" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></p>
 
-<a href="#" align="center">
+<a href="#">
   <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=filipefernandesdev&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefernandesdev&theme=github_dark&hide=hack&langs_count=6&layout=compact"/>

@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I'm Filipe! <img width="30em" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></p>
 
-<a href="https://github.com/filipefernandesdev" align="center">
+<a href="#" align="center">
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefernandesdev&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark"/>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefernandesdev&theme=github_dark&hide=hack&langs_count=8&layout=compact"/> -->
@@ -10,7 +10,7 @@
 #
 
 ### <p align="center">Some of the languages I use</p>
-<a href="https://github.com/filipefernandesdev"  align="center">
+<a href="#"  align="center">
   <div class="languages">
     <img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><img title="C++" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><img title="C#" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img title="HTML5" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img title="CSS3" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"><img title=".NET Core" alt=".NET Core" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><img title="GitHub" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </div>
